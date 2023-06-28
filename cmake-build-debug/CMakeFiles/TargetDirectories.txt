@@ -1,0 +1,5 @@
+C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-debug/CMakeFiles/Production.dir
+C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-debug/CMakeFiles/Debug.dir
+C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-debug/CMakeFiles/Z_DUMMY_TARGET.dir
+C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-debug/CMakeFiles/rebuild_cache.dir

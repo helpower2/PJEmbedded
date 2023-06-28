@@ -1,0 +1,1503 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Z_DUMMY_TARGET"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_definitions",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"CMakeListsPrivate.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 31,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 32,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 34,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 36,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 37,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 38,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 40,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 43,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 44,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 45,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 46,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 47,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 48,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 49,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 50,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 51,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 52,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 53,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 54,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 26,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 27,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 28,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 56,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 57,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 58,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 59,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 60,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 63,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 65,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 66,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 67,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 68,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 69,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 70,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 71,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 72,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 73,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 74,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 75,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 76,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 77,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 78,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 79,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 80,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 81,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 82,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 254,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 85,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 86,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 88,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 89,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 90,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 91,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 92,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 93,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 94,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 95,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 96,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 97,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 98,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 99,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 100,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 101,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 102,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 103,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 104,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 269,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Wvla -fno-rtti -std=gnu++14 -includembed_config.h -DMBED_RAM_SIZE=0x18000 -DMBED_RAM_START=0x20000000 -DMBED_ROM_SIZE=0x80000 -DMBED_ROM_START=0x8000000 -DMBED_TRAP_ERRORS_ENABLED=1 -MMD -Os -Wall -Wextra -Wno-missing-field-initializers -Wno-unused-parameter -fdata-sections -ffunction-sections -fmessage-length=0 -fno-exceptions -fomit-frame-pointer -funsigned-char -g -mcpu=cortex-m4 -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -mthumb -iprefix C:/Users/jeffr/PLATFO~1/packages/FRAMEW~3 @\"C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/.pio/build/nucleo_f401re/longinc-2a697fa74ab9f15c83d079bf788a52f1\" -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu++14"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARM_MATH_CM4"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "COMPONENT_FLASHIAP=1"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "DEVICE_ANALOGIN=1"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "DEVICE_FLASH=1"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "DEVICE_I2C=1"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "DEVICE_I2CSLAVE=1"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "DEVICE_I2C_ASYNCH=1"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "DEVICE_INTERRUPTIN=1"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "DEVICE_LPTICKER=1"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "DEVICE_MPU=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "DEVICE_PORTIN=1"
+				},
+				{
+					"backtrace" : 15,
+					"define" : "DEVICE_PORTINOUT=1"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "DEVICE_PORTOUT=1"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "DEVICE_PWMOUT=1"
+				},
+				{
+					"backtrace" : 18,
+					"define" : "DEVICE_RESET_REASON=1"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "DEVICE_RTC=1"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "DEVICE_SERIAL=1"
+				},
+				{
+					"backtrace" : 21,
+					"define" : "DEVICE_SERIAL_ASYNCH=1"
+				},
+				{
+					"backtrace" : 22,
+					"define" : "DEVICE_SERIAL_FC=1"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "DEVICE_SLEEP=1"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "DEVICE_SPI=1"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "DEVICE_SPISLAVE=1"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "DEVICE_SPI_ASYNCH=1"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "DEVICE_STDIO_MESSAGES=1"
+				},
+				{
+					"backtrace" : 28,
+					"define" : "DEVICE_USTICKER=1"
+				},
+				{
+					"backtrace" : 29,
+					"define" : "DEVICE_WATCHDOG=1"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "PLATFORMIO=60107"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "STM32F4"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "STM32F401xE"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "STM32F40_41xxx"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "TARGET_CORTEX"
+				},
+				{
+					"backtrace" : 35,
+					"define" : "TARGET_CORTEX_M"
+				},
+				{
+					"backtrace" : 36,
+					"define" : "TARGET_FF_ARDUINO"
+				},
+				{
+					"backtrace" : 37,
+					"define" : "TARGET_FF_MORPHO"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "TARGET_LIKE_CORTEX_M4"
+				},
+				{
+					"backtrace" : 39,
+					"define" : "TARGET_LIKE_MBED"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "TARGET_M4"
+				},
+				{
+					"backtrace" : 41,
+					"define" : "TARGET_MCU_STM32"
+				},
+				{
+					"backtrace" : 42,
+					"define" : "TARGET_MCU_STM32F4"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "TARGET_MCU_STM32F401xE"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "TARGET_NAME=NUCLEO_F401RE"
+				},
+				{
+					"backtrace" : 45,
+					"define" : "TARGET_NUCLEO_F401RE"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "TARGET_RELEASE"
+				},
+				{
+					"backtrace" : 47,
+					"define" : "TARGET_RTOS_M4_M7"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "TARGET_STM"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "TARGET_STM32F4"
+				},
+				{
+					"backtrace" : 50,
+					"define" : "TARGET_STM32F401xE"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "TOOLCHAIN_GCC"
+				},
+				{
+					"backtrace" : 52,
+					"define" : "TOOLCHAIN_GCC_ARM"
+				},
+				{
+					"backtrace" : 53,
+					"define" : "TRANSACTION_QUEUE_SIZE_SPI=2"
+				},
+				{
+					"backtrace" : 54,
+					"define" : "USE_FULL_LL_DRIVER"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "USE_HAL_DRIVER"
+				},
+				{
+					"backtrace" : 56,
+					"define" : "__CMSIS_RTOS"
+				},
+				{
+					"backtrace" : 57,
+					"define" : "__CORTEX_M4"
+				},
+				{
+					"backtrace" : 58,
+					"define" : "__FPU_PRESENT=1"
+				},
+				{
+					"backtrace" : 59,
+					"define" : "__MBED_CMSIS_RTOS_CM"
+				},
+				{
+					"backtrace" : 60,
+					"define" : "__MBED__=1"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "__PLATFORMIO_BUILD_DEBUG__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 62,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/include"
+				},
+				{
+					"backtrace" : 63,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/src"
+				},
+				{
+					"backtrace" : 64,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Controller"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Mover"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Motors"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Sensors"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Sensors/Button"
+				},
+				{
+					"backtrace" : 69,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Sensors/SHARPIR"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Sensors/Ultrasonic"
+				},
+				{
+					"backtrace" : 71,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Logger"
+				},
+				{
+					"backtrace" : 72,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Logger/Serial Logger"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Type"
+				},
+				{
+					"backtrace" : 74,
+					"path" : "C:/Users/jeffr/.platformio/packages/framework-mbed"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/.pio/build/nucleo_f401re"
+				},
+				{
+					"backtrace" : 76,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Oled"
+				},
+				{
+					"backtrace" : 77,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Oled/font"
+				},
+				{
+					"backtrace" : 78,
+					"path" : "C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1"
+				},
+				{
+					"backtrace" : 79,
+					"path" : "C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1/arm-none-eabi"
+				},
+				{
+					"backtrace" : 80,
+					"path" : "C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include"
+				},
+				{
+					"backtrace" : 81,
+					"path" : "C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include-fixed"
+				},
+				{
+					"backtrace" : 82,
+					"path" : "C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include"
+				},
+				{
+					"backtrace" : 83,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/.pio/build/nucleo_f401re_debug"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				5,
+				8,
+				10,
+				12,
+				15,
+				21,
+				26,
+				28,
+				30,
+				33
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-std=gnu11 -includembed_config.h -DMBED_RAM_SIZE=0x18000 -DMBED_RAM_START=0x20000000 -DMBED_ROM_SIZE=0x80000 -DMBED_ROM_START=0x8000000 -DMBED_TRAP_ERRORS_ENABLED=1 -MMD -Os -Wall -Wextra -Wno-missing-field-initializers -Wno-unused-parameter -fdata-sections -ffunction-sections -fmessage-length=0 -fno-exceptions -fomit-frame-pointer -funsigned-char -g -mcpu=cortex-m4 -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -mthumb -iprefix C:/Users/jeffr/PLATFO~1/packages/FRAMEW~3 @\"C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/.pio/build/nucleo_f401re/longinc-2a697fa74ab9f15c83d079bf788a52f1\" -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu11"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARM_MATH_CM4"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "COMPONENT_FLASHIAP=1"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "DEVICE_ANALOGIN=1"
+				},
+				{
+					"backtrace" : 7,
+					"define" : "DEVICE_FLASH=1"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "DEVICE_I2C=1"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "DEVICE_I2CSLAVE=1"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "DEVICE_I2C_ASYNCH=1"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "DEVICE_INTERRUPTIN=1"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "DEVICE_LPTICKER=1"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "DEVICE_MPU=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "DEVICE_PORTIN=1"
+				},
+				{
+					"backtrace" : 15,
+					"define" : "DEVICE_PORTINOUT=1"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "DEVICE_PORTOUT=1"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "DEVICE_PWMOUT=1"
+				},
+				{
+					"backtrace" : 18,
+					"define" : "DEVICE_RESET_REASON=1"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "DEVICE_RTC=1"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "DEVICE_SERIAL=1"
+				},
+				{
+					"backtrace" : 21,
+					"define" : "DEVICE_SERIAL_ASYNCH=1"
+				},
+				{
+					"backtrace" : 22,
+					"define" : "DEVICE_SERIAL_FC=1"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "DEVICE_SLEEP=1"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "DEVICE_SPI=1"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "DEVICE_SPISLAVE=1"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "DEVICE_SPI_ASYNCH=1"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "DEVICE_STDIO_MESSAGES=1"
+				},
+				{
+					"backtrace" : 28,
+					"define" : "DEVICE_USTICKER=1"
+				},
+				{
+					"backtrace" : 29,
+					"define" : "DEVICE_WATCHDOG=1"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "PLATFORMIO=60107"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "STM32F4"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "STM32F401xE"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "STM32F40_41xxx"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "TARGET_CORTEX"
+				},
+				{
+					"backtrace" : 35,
+					"define" : "TARGET_CORTEX_M"
+				},
+				{
+					"backtrace" : 36,
+					"define" : "TARGET_FF_ARDUINO"
+				},
+				{
+					"backtrace" : 37,
+					"define" : "TARGET_FF_MORPHO"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "TARGET_LIKE_CORTEX_M4"
+				},
+				{
+					"backtrace" : 39,
+					"define" : "TARGET_LIKE_MBED"
+				},
+				{
+					"backtrace" : 40,
+					"define" : "TARGET_M4"
+				},
+				{
+					"backtrace" : 41,
+					"define" : "TARGET_MCU_STM32"
+				},
+				{
+					"backtrace" : 42,
+					"define" : "TARGET_MCU_STM32F4"
+				},
+				{
+					"backtrace" : 43,
+					"define" : "TARGET_MCU_STM32F401xE"
+				},
+				{
+					"backtrace" : 44,
+					"define" : "TARGET_NAME=NUCLEO_F401RE"
+				},
+				{
+					"backtrace" : 45,
+					"define" : "TARGET_NUCLEO_F401RE"
+				},
+				{
+					"backtrace" : 46,
+					"define" : "TARGET_RELEASE"
+				},
+				{
+					"backtrace" : 47,
+					"define" : "TARGET_RTOS_M4_M7"
+				},
+				{
+					"backtrace" : 48,
+					"define" : "TARGET_STM"
+				},
+				{
+					"backtrace" : 49,
+					"define" : "TARGET_STM32F4"
+				},
+				{
+					"backtrace" : 50,
+					"define" : "TARGET_STM32F401xE"
+				},
+				{
+					"backtrace" : 51,
+					"define" : "TOOLCHAIN_GCC"
+				},
+				{
+					"backtrace" : 52,
+					"define" : "TOOLCHAIN_GCC_ARM"
+				},
+				{
+					"backtrace" : 53,
+					"define" : "TRANSACTION_QUEUE_SIZE_SPI=2"
+				},
+				{
+					"backtrace" : 54,
+					"define" : "USE_FULL_LL_DRIVER"
+				},
+				{
+					"backtrace" : 55,
+					"define" : "USE_HAL_DRIVER"
+				},
+				{
+					"backtrace" : 56,
+					"define" : "__CMSIS_RTOS"
+				},
+				{
+					"backtrace" : 57,
+					"define" : "__CORTEX_M4"
+				},
+				{
+					"backtrace" : 58,
+					"define" : "__FPU_PRESENT=1"
+				},
+				{
+					"backtrace" : 59,
+					"define" : "__MBED_CMSIS_RTOS_CM"
+				},
+				{
+					"backtrace" : 60,
+					"define" : "__MBED__=1"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "__PLATFORMIO_BUILD_DEBUG__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 62,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/include"
+				},
+				{
+					"backtrace" : 63,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/src"
+				},
+				{
+					"backtrace" : 64,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Controller"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Mover"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Motors"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Sensors"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Sensors/Button"
+				},
+				{
+					"backtrace" : 69,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Sensors/SHARPIR"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Sensors/Ultrasonic"
+				},
+				{
+					"backtrace" : 71,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Logger"
+				},
+				{
+					"backtrace" : 72,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Logger/Serial Logger"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Type"
+				},
+				{
+					"backtrace" : 74,
+					"path" : "C:/Users/jeffr/.platformio/packages/framework-mbed"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/.pio/build/nucleo_f401re"
+				},
+				{
+					"backtrace" : 76,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Oled"
+				},
+				{
+					"backtrace" : 77,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/lib/Oled/font"
+				},
+				{
+					"backtrace" : 78,
+					"path" : "C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1"
+				},
+				{
+					"backtrace" : 79,
+					"path" : "C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1/arm-none-eabi"
+				},
+				{
+					"backtrace" : 80,
+					"path" : "C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include"
+				},
+				{
+					"backtrace" : 81,
+					"path" : "C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include-fixed"
+				},
+				{
+					"backtrace" : 82,
+					"path" : "C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include"
+				},
+				{
+					"backtrace" : 83,
+					"path" : "C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/.pio/build/nucleo_f401re_debug"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				18
+			]
+		}
+	],
+	"id" : "Z_DUMMY_TARGET::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-Wvla -fno-rtti -std=gnu++14 -includembed_config.h -DMBED_RAM_SIZE=0x18000 -DMBED_RAM_START=0x20000000 -DMBED_ROM_SIZE=0x80000 -DMBED_ROM_START=0x8000000 -DMBED_TRAP_ERRORS_ENABLED=1 -MMD -Os -Wall -Wextra -Wno-missing-field-initializers -Wno-unused-parameter -fdata-sections -ffunction-sections -fmessage-length=0 -fno-exceptions -fomit-frame-pointer -funsigned-char -g -mcpu=cortex-m4 -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -mthumb -iprefix C:/Users/jeffr/PLATFO~1/packages/FRAMEW~3 @\"C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/.pio/build/nucleo_f401re/longinc-2a697fa74ab9f15c83d079bf788a52f1\"",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Z_DUMMY_TARGET",
+	"nameOnDisk" : "Z_DUMMY_TARGET",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				5,
+				8,
+				10,
+				12,
+				15,
+				18,
+				21,
+				26,
+				28,
+				30,
+				33
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				6,
+				7,
+				9,
+				11,
+				13,
+				14,
+				16,
+				19,
+				20,
+				22,
+				23,
+				24,
+				25,
+				27,
+				29,
+				31,
+				32
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				17
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/Controller/Controller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Controller/Controller.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Logger/IBackLogger.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Logger/ILogger.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Logger/LogType.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/Logger/Logger.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Logger/Logger.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Logger/LoggerSingleton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/Logger/Serial Logger/SerialLogger.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Logger/Serial Logger/SerialLogger.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/Motors/L298N-Driver/L298N_Driver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Motors/L298N-Driver/L298N_Driver.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/Motors/L298N-PWM-Driver/L298N-PWM-Driver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Motors/L298N-PWM-Driver/L298N-PWM-Driver.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Motors/Motor-Base/IMotor.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/Mover/Mover.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Mover/Mover.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Oled/README.md",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "lib/Oled/font/opensans_font.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Oled/font/opensans_font.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Oled/oled_info.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/Oled/oled_ssd1351.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Oled/oled_ssd1351.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Oled/oled_types.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Sensors/Button/DebouncedButton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Sensors/IDistance.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/Sensors/SHARPIR/SHARPIR.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Sensors/SHARPIR/SHARPIR.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/Sensors/Ultrasonic/HCSR04.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Sensors/Ultrasonic/HCSR04.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/Sensors/Ultrasonic/HCSR04Controller.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Sensors/Ultrasonic/HCSR04Controller.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/Type/TypeBase.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

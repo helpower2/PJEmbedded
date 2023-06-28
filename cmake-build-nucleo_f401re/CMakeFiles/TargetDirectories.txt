@@ -1,0 +1,5 @@
+C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/cmake-build-nucleo_f401re/CMakeFiles/Production.dir
+C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/cmake-build-nucleo_f401re/CMakeFiles/Debug.dir
+C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/cmake-build-nucleo_f401re/CMakeFiles/Z_DUMMY_TARGET.dir
+C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/cmake-build-nucleo_f401re/CMakeFiles/edit_cache.dir
+C:/Users/jeffr/Saxion/Koert van Oosten - Project Embedded Systemen/Software/cmake-build-nucleo_f401re/CMakeFiles/rebuild_cache.dir

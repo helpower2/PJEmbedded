@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Verkeerslicht"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Production">
+				<Option working_dir="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 Production"/>
+					<CompileFile command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Debug">
+				<Option working_dir="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 Debug"/>
+					<CompileFile command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z_DUMMY_TARGET">
+				<Option output="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Z_DUMMY_TARGET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPLATFORMIO=60106"/>
+					<Add option="-DSTM32F4"/>
+					<Add option="-DSTM32F401xE"/>
+					<Add option="-DSTM32F40_41xxx"/>
+					<Add option="-DARM_MATH_CM4"/>
+					<Add option="-DCOMPONENT_FLASHIAP=1"/>
+					<Add option="-DDEVICE_ANALOGIN=1"/>
+					<Add option="-DDEVICE_FLASH=1"/>
+					<Add option="-DDEVICE_I2C=1"/>
+					<Add option="-DDEVICE_I2CSLAVE=1"/>
+					<Add option="-DDEVICE_I2C_ASYNCH=1"/>
+					<Add option="-DDEVICE_INTERRUPTIN=1"/>
+					<Add option="-DDEVICE_LPTICKER=1"/>
+					<Add option="-DDEVICE_MPU=1"/>
+					<Add option="-DDEVICE_PORTIN=1"/>
+					<Add option="-DDEVICE_PORTINOUT=1"/>
+					<Add option="-DDEVICE_PORTOUT=1"/>
+					<Add option="-DDEVICE_PWMOUT=1"/>
+					<Add option="-DDEVICE_RESET_REASON=1"/>
+					<Add option="-DDEVICE_RTC=1"/>
+					<Add option="-DDEVICE_SERIAL=1"/>
+					<Add option="-DDEVICE_SERIAL_ASYNCH=1"/>
+					<Add option="-DDEVICE_SERIAL_FC=1"/>
+					<Add option="-DDEVICE_SLEEP=1"/>
+					<Add option="-DDEVICE_SPI=1"/>
+					<Add option="-DDEVICE_SPISLAVE=1"/>
+					<Add option="-DDEVICE_SPI_ASYNCH=1"/>
+					<Add option="-DDEVICE_STDIO_MESSAGES=1"/>
+					<Add option="-DDEVICE_USTICKER=1"/>
+					<Add option="-DDEVICE_WATCHDOG=1"/>
+					<Add option="-DTARGET_CORTEX"/>
+					<Add option="-DTARGET_CORTEX_M"/>
+					<Add option="-DTARGET_FF_ARDUINO"/>
+					<Add option="-DTARGET_FF_MORPHO"/>
+					<Add option="-DTARGET_LIKE_CORTEX_M4"/>
+					<Add option="-DTARGET_LIKE_MBED"/>
+					<Add option="-DTARGET_M4"/>
+					<Add option="-DTARGET_MCU_STM32"/>
+					<Add option="-DTARGET_MCU_STM32F4"/>
+					<Add option="-DTARGET_MCU_STM32F401xE"/>
+					<Add option="-DTARGET_NAME=NUCLEO_F401RE"/>
+					<Add option="-DTARGET_NUCLEO_F401RE"/>
+					<Add option="-DTARGET_RELEASE"/>
+					<Add option="-DTARGET_RTOS_M4_M7"/>
+					<Add option="-DTARGET_STM"/>
+					<Add option="-DTARGET_STM32F4"/>
+					<Add option="-DTARGET_STM32F401xE"/>
+					<Add option="-DTOOLCHAIN_GCC"/>
+					<Add option="-DTOOLCHAIN_GCC_ARM"/>
+					<Add option="-DTRANSACTION_QUEUE_SIZE_SPI=2"/>
+					<Add option="-DUSE_FULL_LL_DRIVER"/>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-D__CMSIS_RTOS"/>
+					<Add option="-D__CORTEX_M4"/>
+					<Add option="-D__FPU_PRESENT=1"/>
+					<Add option="-D__MBED_CMSIS_RTOS_CM"/>
+					<Add option="-D__MBED__=1"/>
+					<Add option="-D__PLATFORMIO_BUILD_DEBUG__"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/include"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/src"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/TrafficLight"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Logger"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Button"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/SignalLight"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/framework-mbed"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/.pio/build/nucleo_f401re"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Singleton"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Type"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/.pio/build/nucleo_f401re_debug"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 Z_DUMMY_TARGET"/>
+					<CompileFile command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z_DUMMY_TARGET/fast">
+				<Option output="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Z_DUMMY_TARGET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPLATFORMIO=60106"/>
+					<Add option="-DSTM32F4"/>
+					<Add option="-DSTM32F401xE"/>
+					<Add option="-DSTM32F40_41xxx"/>
+					<Add option="-DARM_MATH_CM4"/>
+					<Add option="-DCOMPONENT_FLASHIAP=1"/>
+					<Add option="-DDEVICE_ANALOGIN=1"/>
+					<Add option="-DDEVICE_FLASH=1"/>
+					<Add option="-DDEVICE_I2C=1"/>
+					<Add option="-DDEVICE_I2CSLAVE=1"/>
+					<Add option="-DDEVICE_I2C_ASYNCH=1"/>
+					<Add option="-DDEVICE_INTERRUPTIN=1"/>
+					<Add option="-DDEVICE_LPTICKER=1"/>
+					<Add option="-DDEVICE_MPU=1"/>
+					<Add option="-DDEVICE_PORTIN=1"/>
+					<Add option="-DDEVICE_PORTINOUT=1"/>
+					<Add option="-DDEVICE_PORTOUT=1"/>
+					<Add option="-DDEVICE_PWMOUT=1"/>
+					<Add option="-DDEVICE_RESET_REASON=1"/>
+					<Add option="-DDEVICE_RTC=1"/>
+					<Add option="-DDEVICE_SERIAL=1"/>
+					<Add option="-DDEVICE_SERIAL_ASYNCH=1"/>
+					<Add option="-DDEVICE_SERIAL_FC=1"/>
+					<Add option="-DDEVICE_SLEEP=1"/>
+					<Add option="-DDEVICE_SPI=1"/>
+					<Add option="-DDEVICE_SPISLAVE=1"/>
+					<Add option="-DDEVICE_SPI_ASYNCH=1"/>
+					<Add option="-DDEVICE_STDIO_MESSAGES=1"/>
+					<Add option="-DDEVICE_USTICKER=1"/>
+					<Add option="-DDEVICE_WATCHDOG=1"/>
+					<Add option="-DTARGET_CORTEX"/>
+					<Add option="-DTARGET_CORTEX_M"/>
+					<Add option="-DTARGET_FF_ARDUINO"/>
+					<Add option="-DTARGET_FF_MORPHO"/>
+					<Add option="-DTARGET_LIKE_CORTEX_M4"/>
+					<Add option="-DTARGET_LIKE_MBED"/>
+					<Add option="-DTARGET_M4"/>
+					<Add option="-DTARGET_MCU_STM32"/>
+					<Add option="-DTARGET_MCU_STM32F4"/>
+					<Add option="-DTARGET_MCU_STM32F401xE"/>
+					<Add option="-DTARGET_NAME=NUCLEO_F401RE"/>
+					<Add option="-DTARGET_NUCLEO_F401RE"/>
+					<Add option="-DTARGET_RELEASE"/>
+					<Add option="-DTARGET_RTOS_M4_M7"/>
+					<Add option="-DTARGET_STM"/>
+					<Add option="-DTARGET_STM32F4"/>
+					<Add option="-DTARGET_STM32F401xE"/>
+					<Add option="-DTOOLCHAIN_GCC"/>
+					<Add option="-DTOOLCHAIN_GCC_ARM"/>
+					<Add option="-DTRANSACTION_QUEUE_SIZE_SPI=2"/>
+					<Add option="-DUSE_FULL_LL_DRIVER"/>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-D__CMSIS_RTOS"/>
+					<Add option="-D__CORTEX_M4"/>
+					<Add option="-D__FPU_PRESENT=1"/>
+					<Add option="-D__MBED_CMSIS_RTOS_CM"/>
+					<Add option="-D__MBED__=1"/>
+					<Add option="-D__PLATFORMIO_BUILD_DEBUG__"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/include"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/src"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/TrafficLight"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Logger"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Button"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/SignalLight"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/framework-mbed"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/.pio/build/nucleo_f401re"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Singleton"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Type"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="C:/Users/jeffr/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include"/>
+					<Add directory="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/.pio/build/nucleo_f401re_debug"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 Z_DUMMY_TARGET/fast"/>
+					<CompileFile command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/jeffr/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/cmake-build-nucleo_f401re_debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Button/DebouncedButton.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Logger/LogType.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Logger/LogType.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Logger/Logger.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Logger/Logger.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/SignalLight/PWMLight.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/SignalLight/PWMLight.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/SignalLight/RGBLightHandler.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/SignalLight/RGBLightState.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Singleton/Singleton.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Singleton/Singleton.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/TrafficLight/TrafficLight.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/TrafficLight/TrafficLight.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/TrafficLight/TrafficLightState.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/TrafficLight/TrafficLightState.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/lib/Type/TypeBase.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/src/main.cpp">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/CMakeListsPrivate.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,140 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Z_DUMMY_TARGET"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Wvla -fno-rtti -std=gnu++14 -includembed_config.h -DMBED_MINIMAL_PRINTF -DMBED_RAM_SIZE=0x18000 -DMBED_RAM_START=0x20000000 -DMBED_ROM_SIZE=0x80000 -DMBED_ROM_START=0x8000000 -DMBED_TRAP_ERRORS_ENABLED=1 -MMD -Os -Wall -Wextra -Wno-missing-field-initializers -Wno-unused-parameter -fdata-sections -ffunction-sections -fmessage-length=0 -fno-exceptions -fomit-frame-pointer -funsigned-char -g -mcpu=cortex-m4 -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -mthumb -iprefix C:/Users/jeffr/PLATFO~1/packages/FRAMEW~3 @\"C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/.pio/build/nucleo_f401re/longinc-2a697fa74ab9f15c83d079bf788a52f1\" -g -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu++14"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				3,
+				5
+			]
+		}
+	],
+	"id" : "Z_DUMMY_TARGET::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-Wvla -fno-rtti -std=gnu++14 -includembed_config.h -DMBED_MINIMAL_PRINTF -DMBED_RAM_SIZE=0x18000 -DMBED_RAM_START=0x20000000 -DMBED_ROM_SIZE=0x80000 -DMBED_ROM_START=0x8000000 -DMBED_TRAP_ERRORS_ENABLED=1 -MMD -Os -Wall -Wextra -Wno-missing-field-initializers -Wno-unused-parameter -fdata-sections -ffunction-sections -fmessage-length=0 -fno-exceptions -fomit-frame-pointer -funsigned-char -g -mcpu=cortex-m4 -mfloat-abi=softfp -mfpu=fpv4-sp-d16 -mthumb -iprefix C:/Users/jeffr/PLATFO~1/packages/FRAMEW~3 @\"C:/Users/jeffr/Nextcloud/Msi-ge62vr/School/HBO/Mechatronica/2022-2023/C++/Verkeerslicht/Verkeerslicht/.pio/build/nucleo_f401re/longinc-2a697fa74ab9f15c83d079bf788a52f1\" -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Z_DUMMY_TARGET",
+	"nameOnDisk" : "Z_DUMMY_TARGET",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				3,
+				5
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "lib/Button/Button.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/LoggerV1/LoggerV1.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/LoggerV2/LoggerV2.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lib/SignalLight/SignalLight.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "lib/SignalLight/SignalLight.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}
